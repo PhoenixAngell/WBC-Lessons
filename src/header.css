@@ -1,0 +1,14 @@
+.header{
+    background-color: grey;
+    height: 100px;
+}
+
+li{
+    float: left;
+    padding: 10px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10px;
+}
